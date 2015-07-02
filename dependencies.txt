@@ -1,0 +1,12 @@
+pyMongo
+Flask
+Flask-HTTPAuth
+Flask-RESTful
+Jinja2
+MarkupSafe
+Werkzeug
+itsdangerous
+six
+mongoengine
+flask-cors
+colander
